@@ -1,0 +1,8 @@
+@font-face {
+    font-family: infinite darkness;
+    src: url(Infinite\ Darkness.ttf);
+}
+
+p{
+    font-family: 'infinite darkness';
+}
